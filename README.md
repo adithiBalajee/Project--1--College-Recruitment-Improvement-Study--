@@ -28,7 +28,7 @@ The insights will help guide recruiting and outreach strategies for the CCM IT d
   - Final conclusions based on analysis
 - `Non-Majors Survey Results - Fall 2024.csv`: Cleaned CSV used in the notebook
 - `README.md`: This file – explaining the project and its contents
-- (Optional for submission) Original uncleaned dataset from Part 1
+- Original uncleaned dataset
 
 ---
 
